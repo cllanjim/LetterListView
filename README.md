@@ -1,4 +1,4 @@
 LetterListView
 ==============
 
-ListView With letters navigation bar.
+ListView with letters navigation bar.
